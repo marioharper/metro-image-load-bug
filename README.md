@@ -11,3 +11,5 @@ Repo to assist in reproducing https://github.com/facebook/metro/issues/289
 ```
 
 Notice: The text from `testmodule` appears on the screen, however the `cat.jpg` does not.
+
+![Screenshoot](screenshot.png)
